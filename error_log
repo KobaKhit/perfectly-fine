@@ -1,0 +1,3 @@
+[04-Oct-2018 12:17:48 UTC] PHP Warning:  strpos(): Empty needle in /home4/itsperf1/public_html/wp-includes/functions.php on line 4338
+[04-Oct-2018 12:17:49 UTC] PHP Warning:  strpos(): Empty needle in /home4/itsperf1/public_html/wp-includes/functions.php on line 4338
+[04-Oct-2018 12:17:49 UTC] mojo_plugin_activated
